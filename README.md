@@ -9,6 +9,3 @@ Extraction of Images using InceptionV3.
 
 ● Bahdanau Attention allows LSTM Decoder to selectively focus on
 certain parts of image at every time step.
-
-● Curriculum learning instead of pure teacher forcing at Training
-time.
